@@ -2,7 +2,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-[![GitHub Followers](https://img.shields.io/github/followers/[username]?label=Follow&style=social)](https://github.com/[username])
+[![GitHub Followers](https://img.shields.io/github/followers/ngtrongha?label=Follow&style=social)](https://github.com/ngtrongha)
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKMt1VV26qJQ5AA/giphy.gif" width="200">
@@ -11,22 +11,18 @@
 ## 📱 Projects Highlight
 | Project | Description | Tech Stack | Source Code |
 |---------|-------------|------------|-------------|
-| **E-Commerce App** | A full-featured shopping app with Firebase backend. | Flutter, Firebase, Bloc | [GitHub Repo](https://github.com/[username]/ecommerce-app) |
-| **Weather App** | Real-time weather updates using OpenWeather API. | Flutter, REST API, Provider | [GitHub Repo](https://github.com/[username]/weather-app) |
+| **E-Commerce App** | A full-featured shopping app with Firebase backend. | Flutter, Firebase, Bloc | [GitHub Repo](https://github.com/ngtrongha/ecommerce-app) |
+| **Weather App** | Real-time weather updates using OpenWeather API. | Flutter, REST API, Provider | [GitHub Repo](https://github.com/ngtrongha/weather-app) |
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=[username]&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngtrongha&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ngtrongha&theme=radical)](https://git.io/streak-stats)
 
 ## 🛠️ Flutter Tech Stack
 - **State Management**: Bloc, Provider, Riverpod  
 - **Database**: Firebase, Hive, SQLite  
 - **Architecture**: Clean Architecture, MVVM  
 - **Tools**: VS Code, Android Studio, Figma  
-
-## 📝 Blog & Tutorials
-- [How to Build a Flutter App with BLoC](https://yourblog.com/bloc-tutorial)
-- [Firebase Authentication in Flutter](https://yourblog.com/firebase-auth)
 
 ## 🌟 Featured Flutter Snippet
 ```dart
