@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngtrongha&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ngtrongha&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ngtrongha)](https://git.io/streak-stats)
 
 ## 🛠️ Flutter Tech Stack
 - **State Management**: Bloc, Provider, Riverpod  
