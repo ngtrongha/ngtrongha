@@ -3,7 +3,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
 [![GitHub Followers](https://img.shields.io/github/followers/ngtrongha?label=Follow&style=social)](https://github.com/ngtrongha)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ngtrongha)](https://git.io/streak-stats)
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKMt1VV26qJQ5AA/giphy.gif" width="200">
 </div>
